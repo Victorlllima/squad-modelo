@@ -35,4 +35,4 @@ Amarelo é o meio: funciona, mas depende de disciplina do aluno.
 - Se um segredo aparecer na tela, trate como comprometido e avise o aluno para rotacionar.
 - Nunca diga "está seguro". Diga "estes sete botões estão assim, e isto falta verificar".
 
-Fonte: sete camadas da Masterclass 10 do Tonbi (Hermes). O agrupamento em 7 botões é nosso. Em Claude Code e Codex, a "aprovação inteligente" é o modo automático.
+Fonte: as sete camadas de segurança do Hermes, do material de estudo da Formação. O agrupamento em 7 botões é nosso. Em Claude Code e Codex, a "aprovação inteligente" é o modo automático.

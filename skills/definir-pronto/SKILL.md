@@ -30,4 +30,4 @@ Reescrito: o mesmo pedido, mais:
 - Não aumente o escopo do pedido. Só feche a porta do "quando termina".
 - Se o aluno pedir algo sem resultado verificável (por exemplo, "pense sobre isso"), diga isso e proponha o resultado mais próximo que dá para conferir.
 
-Fonte da ideia: o critério de conclusão (definition of done) que o Nick Saraev descreve no vídeo de agentes de 2026. A skill é nossa.
+O critério de conclusão (definition of done) é um conceito conhecido de engenharia de software. A skill é nossa.

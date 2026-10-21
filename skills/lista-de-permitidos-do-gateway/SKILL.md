@@ -24,4 +24,4 @@ O aluno manda uma mensagem para o bot `@userinfobot` (ou outro bot de ID de conf
 - Nunca escreva o token do bot em arquivo versionado. Use o `.env`, que está no `.gitignore`.
 - Se o aluno pedir para liberar "todo mundo", explique o risco e peça confirmação por escrito.
 
-Estado: a regra vem da Masterclass 10 do Tonbi (camada 1). O nome exato do campo na versão instalada ainda precisa ser conferido em máquina real.
+Estado: a regra vem da primeira camada de segurança do Hermes (confiança). O nome exato do campo na versão instalada ainda precisa ser conferido em máquina real.
