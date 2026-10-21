@@ -11,7 +11,7 @@ O repositório modelo do seu squad de agentes. Aqui moram os agentes (papel, reg
 | `AGENTS.md` | As regras que todo agente lê antes de mexer em qualquer coisa (Claude Code, Codex e Hermes) |
 | `agents/` | Uma pasta por agente, com `AGENT.md` (o papel) e `SOUL.md` (o contrato). Copie `_modelo/` |
 | `permissoes/matriz.md` | A matriz agente × permissão, em verde, amarelo e vermelho |
-| `skills/` | 10 skills prontas: `definir-pronto`, `otimizar-anatomia-do-agente`, `escolher-vps`, `blindar-vps`, `acesso-privado`, `instalar-hermes-vps`, `lista-de-permitidos-do-gateway`, `auditoria-de-seguranca-do-squad`, `repositorio-modelo`, `fluxo-de-aprovacao-git` |
+| `skills/` | 11 skills prontas: `definir-pronto`, `diagnosticar-vps`, `otimizar-anatomia-do-agente`, `escolher-vps`, `blindar-vps`, `acesso-privado`, `instalar-hermes-vps`, `lista-de-permitidos-do-gateway`, `auditoria-de-seguranca-do-squad`, `repositorio-modelo`, `fluxo-de-aprovacao-git` |
 | `.github/` | Modelo de pull request, dono do código e a verificação automática |
 | `docs/estagios.md` | Desenvolvimento, homologação e produção: o que muda em cada um |
 | `.env.example` | Os nomes dos segredos, sem os valores |

@@ -5,7 +5,7 @@ description: Blinda uma VPS Ubuntu recém-criada antes de instalar o Hermes: usu
 
 # Blindar a VPS (4 passos, mais o teste de fora)
 
-Você roda por SSH, de fora da VPS, com a chave do aluno. A ordem existe para nunca fechar uma porta sem ter certeza de que a outra abre. **Nunca pule o teste entre os passos.**
+**Se a VPS já existe e já roda coisas, rode antes a skill `diagnosticar-vps` e só siga com este passo a passo nos itens que ela marcou como verdes ou amarelos.** Você roda por SSH, de fora da VPS, com a chave do aluno. A ordem existe para nunca fechar uma porta sem ter certeza de que a outra abre. **Nunca pule o teste entre os passos.**
 
 ## As 5 camadas (a cebola da aula)
 De fora para dentro: a internet, o firewall, o SSH, o usuário sem root e, no centro, o Hermes. Cada passo abaixo fecha uma camada, e o Hermes só entra depois que todas estão de pé.
