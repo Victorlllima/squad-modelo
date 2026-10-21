@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_*
+.hermes/cache/
+.hermes/tools/
+node_modules/
+__pycache__/
+.DS_Store
